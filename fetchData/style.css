@@ -1,0 +1,73 @@
+
+body{
+    background-color: rgba(196, 178, 178, 0.623);
+}
+.contianer{
+    width: 600px;
+    padding: 20px;
+    border-radius: 5px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    top: 150px;
+    background: whitesmoke;
+    margin-bottom: 6px;
+}
+
+.numberOfPost{
+    font-size: 20px;
+    font-family: system-ui;
+    font-weight: bold;
+    background: red;
+    padding: 5px 10px;
+    border-radius: 50px;
+    color: white;
+    float: right;
+    position: relative;
+    left: 34px;
+    top: 27px;
+}
+.titil{
+    font-size: large;
+    text-transform: capitalize;
+    background: #9e9e9e54;
+    padding: 12px;
+    color: black;
+    border-radius: 16px;
+    font-family: system-ui;
+}
+
+.discription{
+    font-size: large;
+    font-family: system-ui;
+    padding: 5px;
+    margin: 15px;
+}
+.label1{
+    font-size: large;
+   
+    text-transform: capitalize;
+    font-weight: bold;
+    font-family: system-ui;
+    float: right;
+    top: 0px;
+    position: relative;
+}
+.label2{
+    margin: 8px 0;
+    font-size: large;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-family: system-ui;
+  
+    position: relative;
+}
+.label3{
+    font-size: large;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-family: system-ui;
+    margin: 8px 0;
+    position: relative;
+    top: 8px;
+}
